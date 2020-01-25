@@ -1,0 +1,6 @@
+dataset_type: VIDEO_PATCH
+data_file: "/home/ubuntu/unsupervised-videos-master/datasets/burg_valid.npy"
+num_frames: 20
+batch_size: 100
+image_size: 32
+num_colors: 3
